@@ -6,5 +6,3 @@ https://etdorikin.github.io/Horiseons-Refaction/
 
 ## Site Image
 ![alt text](projects/Horiseon Top.png)
-![alt text](projects/Horiseon Bottom.png)
-![alt text](projects/Horiseon Footer.png)
