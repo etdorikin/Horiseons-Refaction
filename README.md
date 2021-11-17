@@ -5,4 +5,4 @@ This project helped sharpen my skills when it comes to refactoring and it improv
 https://etdorikin.github.io/Horiseons-Refaction/
 
 ## Site Image
-![alt text](projects/Horiseon Top.png)
+![alt text](Desktop/projects/Horiseon Top.png)
