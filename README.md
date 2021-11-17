@@ -6,6 +6,7 @@ https://etdorikin.github.io/Horiseons-Refaction/
 
 ## Site Image
 ![Horiseon Top](https://user-images.githubusercontent.com/89331250/142295291-8cc4b03a-0e24-4756-850a-158485e88895.PNG)
-![Horiseon Bottom1](https://user-images.githubusercontent.com/89331250/142295689-047709a1-3be4-4e9e-a75e-c01f4cc6872a.png)
-![Horiseon Footer](https://user-images.githubusercontent.com/89331250/142295331-9692f75f-b010-4a59-9424-d6937234b152.PNG)
+![HoriseonMiddle](https://user-images.githubusercontent.com/89331250/142296380-f4a02513-dc19-4ec6-9dc1-264e91f556f6.PNG)
+![HoriseonFooter](https://user-images.githubusercontent.com/89331250/142296403-e673cd03-a3fc-4ccb-a5ce-a42eb47c5592.PNG)
+
 
